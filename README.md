@@ -1,1 +1,1 @@
-# my-script
+这是一个用于降低腾讯ace扫盘的效果的一个python脚本
